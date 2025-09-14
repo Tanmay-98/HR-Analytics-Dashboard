@@ -28,11 +28,11 @@ Developed in **Power BI**, with supporting documentation and reports.
 ---
 
 ## 📌 Key Insights
-- Attrition critically high (~53%), especially in Marketing and HR
+- Attrition is critically high (~53%), especially in Marketing and HR
 - Austin and Seattle locations show attrition >60%
 - 20% of employees are long-tenure but low-performing
 - Hiring peaked in 2023, slowed in 2024
-- Training investment not strongly linked to performance
+- Training investment is not strongly linked to performance
 
 ---
 
@@ -55,4 +55,4 @@ Developed in **Power BI**, with supporting documentation and reports.
 
 ## 👤 Author
 Tanmay Pathak  
-[LinkedIn](https://www.linkedin.com/in/tanmay-pathak) | [GitHub](https://github.com/<your-username>)
+[LinkedIn](https://www.linkedin.com/in/tanmay-pathak-profile/) | [GitHub](https://github.com/Tanmay-98)
