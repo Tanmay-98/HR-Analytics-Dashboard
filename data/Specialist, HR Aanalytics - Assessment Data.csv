@@ -1,0 +1,201 @@
+Employee ID,Name,Department,Job Title,Hire Date,Location,Salary,Performance Rating,Training Hours,Attrition Status
+E0001,Employee_1,Finance,Accountant,2/5/2020,New York,89109,5,64,No
+E0002,Employee_2,Sales,Sales Manager,1/15/2018,Chicago,70097,2,51,Yes
+E0003,Employee_3,Marketing,Marketing Manager,11/25/2021,Seattle,116310,3,83,No
+E0004,Employee_4,Sales,Sales Executive,1/6/2023,New York,58479,3,28,Yes
+E0005,Employee_5,IT,IT Support,9/29/2022,Austin,109540,4,31,Yes
+E0006,Employee_6,IT,IT Support,12/22/2020,Seattle,90656,4,36,Yes
+E0007,Employee_7,IT,IT Support,4/14/2020,San Francisco,81057,5,30,Yes
+E0008,Employee_8,Sales,Sales Executive,4/25/2017,Chicago,71646,5,28,No
+E0009,Employee_9,Marketing,Marketing Manager,2/28/2019,New York,92636,5,100,No
+E0010,Employee_10,Sales,Sales Manager,12/21/2022,New York,117829,5,51,Yes
+E0011,Employee_11,IT,Software Engineer,8/9/2016,Chicago,107849,3,25,No
+E0012,Employee_12,IT,IT Support,5/14/2022,Seattle,116943,5,17,Yes
+E0013,Employee_13,IT,Software Engineer,11/10/2019,New York,75593,5,44,No
+E0014,Employee_14,Operations,Operations Analyst,3/29/2017,Austin,40090,4,54,Yes
+E0015,Employee_15,HR,HR Coordinator,1/27/2019,New York,53689,4,20,Yes
+E0016,Employee_16,Sales,Sales Executive,10/20/2022,Seattle,63165,2,15,Yes
+E0017,Employee_17,Sales,Sales Manager,10/4/2015,Chicago,103124,3,78,No
+E0018,Employee_18,Sales,Sales Executive,7/2/2020,San Francisco,73260,4,2,Yes
+E0019,Employee_19,Operations,Operations Analyst,11/9/2023,Seattle,51217,5,17,Yes
+E0020,Employee_20,HR,HR Coordinator,10/27/2015,Seattle,113740,5,35,Yes
+E0021,Employee_21,Marketing,Marketing Specialist,8/24/2016,San Francisco,110686,3,79,No
+E0022,Employee_22,HR,HR Manager,5/17/2019,Chicago,79324,1,60,Yes
+E0023,Employee_23,HR,HR Manager,8/23/2022,Seattle,56720,4,81,No
+E0024,Employee_24,HR,HR Manager,1/23/2023,San Francisco,114281,4,92,No
+E0025,Employee_25,Operations,Operations Analyst,6/29/2018,Austin,99537,4,89,Yes
+E0026,Employee_26,HR,HR Manager,6/12/2019,Chicago,50061,5,49,Yes
+E0027,Employee_27,IT,Software Engineer,10/21/2017,Austin,67699,2,36,No
+E0028,Employee_28,IT,Software Engineer,11/18/2021,San Francisco,107347,3,58,No
+E0029,Employee_29,Marketing,Marketing Manager,11/11/2017,Austin,105643,2,93,Yes
+E0030,Employee_30,Sales,Sales Manager,5/16/2017,Chicago,62487,1,94,No
+E0031,Employee_31,IT,Software Engineer,7/27/2016,Seattle,85540,2,35,Yes
+E0032,Employee_32,Marketing,Marketing Manager,12/2/2023,Chicago,109379,5,8,No
+E0033,Employee_33,Operations,Operations Manager,8/15/2015,Chicago,92823,2,54,No
+E0034,Employee_34,IT,Software Engineer,4/25/2016,Seattle,40317,1,76,No
+E0035,Employee_35,IT,Software Engineer,9/22/2020,San Francisco,116425,1,11,No
+E0036,Employee_36,HR,HR Coordinator,8/6/2022,San Francisco,71376,4,27,No
+E0037,Employee_37,IT,IT Support,8/29/2021,Seattle,74857,1,81,Yes
+E0038,Employee_38,IT,IT Support,10/23/2021,New York,102096,4,11,No
+E0039,Employee_39,Finance,Accountant,12/15/2023,New York,87247,2,94,No
+E0040,Employee_40,Marketing,Marketing Manager,12/26/2018,San Francisco,41134,3,90,Yes
+E0041,Employee_41,HR,HR Coordinator,11/20/2023,Seattle,111731,2,26,Yes
+E0042,Employee_42,Sales,Sales Manager,10/26/2020,Chicago,74232,3,93,Yes
+E0043,Employee_43,IT,Software Engineer,5/5/2018,New York,73679,2,47,No
+E0044,Employee_44,Finance,Accountant,2/19/2021,New York,50610,1,83,Yes
+E0045,Employee_45,Marketing,Marketing Specialist,12/25/2018,New York,53310,1,99,No
+E0046,Employee_46,Operations,Operations Manager,12/5/2023,Austin,92844,3,94,Yes
+E0047,Employee_47,Marketing,Marketing Specialist,9/1/2015,Austin,96972,1,6,Yes
+E0048,Employee_48,IT,Software Engineer,7/17/2022,Chicago,68863,3,95,Yes
+E0049,Employee_49,HR,HR Manager,5/31/2016,Chicago,98412,1,67,No
+E0050,Employee_50,Finance,Accountant,7/15/2020,San Francisco,118008,1,44,No
+E0051,Employee_51,Marketing,Marketing Manager,7/21/2023,Seattle,76333,3,67,No
+E0052,Employee_52,IT,IT Support,2/27/2016,Seattle,118655,4,55,No
+E0053,Employee_53,Marketing,Marketing Specialist,11/20/2023,Seattle,75176,3,56,Yes
+E0054,Employee_54,Operations,Operations Analyst,9/21/2020,Chicago,117532,3,60,No
+E0055,Employee_55,IT,Software Engineer,3/15/2023,San Francisco,107067,1,34,No
+E0056,Employee_56,Finance,Accountant,12/1/2021,Austin,98602,3,22,No
+E0057,Employee_57,Finance,Financial Analyst,11/6/2018,San Francisco,76829,4,100,Yes
+E0058,Employee_58,Finance,Financial Analyst,3/9/2016,New York,96325,2,56,Yes
+E0059,Employee_59,HR,HR Manager,11/17/2017,Austin,69576,4,38,No
+E0060,Employee_60,Marketing,Marketing Specialist,5/4/2023,Austin,53448,4,27,Yes
+E0061,Employee_61,IT,Software Engineer,6/19/2019,San Francisco,57320,5,25,No
+E0062,Employee_62,Finance,Accountant,10/21/2023,San Francisco,77711,2,47,Yes
+E0063,Employee_63,IT,Software Engineer,6/23/2020,Seattle,45140,5,18,No
+E0064,Employee_64,Finance,Accountant,10/22/2023,Seattle,88194,1,71,Yes
+E0065,Employee_65,HR,HR Manager,1/11/2017,New York,66576,4,81,Yes
+E0066,Employee_66,Marketing,Marketing Specialist,1/5/2021,Chicago,116911,1,62,No
+E0067,Employee_67,Marketing,Marketing Specialist,1/27/2019,Chicago,67460,1,42,Yes
+E0068,Employee_68,Sales,Sales Manager,12/21/2022,New York,94853,3,2,No
+E0069,Employee_69,HR,HR Coordinator,5/8/2020,New York,108024,2,54,Yes
+E0070,Employee_70,Sales,Sales Manager,11/21/2023,New York,106418,4,69,Yes
+E0071,Employee_71,Marketing,Marketing Specialist,3/16/2023,Seattle,57055,3,10,Yes
+E0072,Employee_72,Operations,Operations Analyst,3/23/2019,Chicago,115212,2,19,No
+E0073,Employee_73,IT,Software Engineer,9/16/2023,Seattle,58590,1,92,Yes
+E0074,Employee_74,IT,Software Engineer,1/31/2018,New York,64888,2,73,No
+E0075,Employee_75,Marketing,Marketing Manager,10/27/2021,Seattle,105728,4,71,Yes
+E0076,Employee_76,Marketing,Marketing Manager,4/8/2024,New York,75715,5,11,Yes
+E0077,Employee_77,Sales,Sales Executive,9/19/2022,San Francisco,104550,2,34,Yes
+E0078,Employee_78,HR,HR Coordinator,2/2/2023,Seattle,63404,5,50,Yes
+E0079,Employee_79,Finance,Financial Analyst,9/15/2021,Austin,52868,2,25,Yes
+E0080,Employee_80,Operations,Operations Manager,7/24/2016,New York,59326,3,52,No
+E0081,Employee_81,Sales,Sales Executive,4/3/2016,Austin,69697,3,57,No
+E0082,Employee_82,Finance,Accountant,3/27/2018,Austin,77886,2,28,No
+E0083,Employee_83,Operations,Operations Analyst,9/19/2017,Austin,42208,2,49,Yes
+E0084,Employee_84,IT,IT Support,11/6/2023,Austin,93267,1,33,Yes
+E0085,Employee_85,IT,IT Support,11/10/2023,Chicago,113087,4,69,Yes
+E0086,Employee_86,IT,IT Support,2/13/2016,Chicago,85543,4,41,No
+E0087,Employee_87,Sales,Sales Manager,3/10/2021,Seattle,58218,1,94,Yes
+E0088,Employee_88,Finance,Financial Analyst,10/20/2018,New York,81030,5,99,No
+E0089,Employee_89,HR,HR Manager,3/16/2024,New York,50060,5,18,No
+E0090,Employee_90,Finance,Financial Analyst,4/15/2023,New York,51352,1,64,No
+E0091,Employee_91,Operations,Operations Analyst,11/18/2015,San Francisco,70061,4,16,Yes
+E0092,Employee_92,IT,Software Engineer,11/15/2020,Chicago,109762,1,5,Yes
+E0093,Employee_93,Sales,Sales Executive,8/5/2020,San Francisco,92827,5,14,No
+E0094,Employee_94,Finance,Accountant,4/10/2021,Chicago,77423,1,40,Yes
+E0095,Employee_95,Sales,Sales Executive,10/25/2017,San Francisco,103292,3,38,No
+E0096,Employee_96,Marketing,Marketing Manager,11/25/2023,Chicago,110353,2,79,Yes
+E0097,Employee_97,HR,HR Manager,12/25/2016,Chicago,99026,4,53,Yes
+E0098,Employee_98,Finance,Financial Analyst,9/16/2023,Austin,71527,1,26,Yes
+E0099,Employee_99,Finance,Financial Analyst,4/13/2019,Seattle,87789,5,92,Yes
+E0100,Employee_100,Sales,Sales Executive,10/30/2021,Chicago,55155,3,11,No
+E0101,Employee_101,IT,Software Engineer,2/28/2021,Austin,63481,4,32,No
+E0102,Employee_102,HR,HR Manager,4/11/2024,New York,95805,3,91,No
+E0103,Employee_103,IT,Software Engineer,7/20/2023,Seattle,87948,1,33,Yes
+E0104,Employee_104,IT,IT Support,5/19/2020,Seattle,44478,1,68,No
+E0105,Employee_105,HR,HR Coordinator,12/30/2017,Austin,63533,4,93,Yes
+E0106,Employee_106,HR,HR Coordinator,1/26/2018,Chicago,88751,3,48,Yes
+E0107,Employee_107,Sales,Sales Manager,6/26/2020,San Francisco,103284,4,27,No
+E0108,Employee_108,Marketing,Marketing Manager,7/13/2017,New York,104945,5,50,Yes
+E0109,Employee_109,IT,IT Support,8/7/2018,New York,58176,5,77,Yes
+E0110,Employee_110,Finance,Accountant,4/22/2020,New York,50058,3,66,No
+E0111,Employee_111,Finance,Accountant,10/24/2017,New York,119128,5,26,No
+E0112,Employee_112,Sales,Sales Manager,1/19/2020,Austin,102637,4,50,No
+E0113,Employee_113,Finance,Financial Analyst,6/27/2022,San Francisco,109444,5,76,No
+E0114,Employee_114,HR,HR Manager,8/4/2024,Austin,54729,2,56,No
+E0115,Employee_115,Marketing,Marketing Specialist,3/22/2023,San Francisco,82394,2,89,Yes
+E0116,Employee_116,Operations,Operations Analyst,8/3/2018,Chicago,62423,1,100,No
+E0117,Employee_117,Operations,Operations Manager,6/2/2017,San Francisco,56169,3,88,Yes
+E0118,Employee_118,Sales,Sales Manager,4/4/2024,Seattle,56351,4,16,No
+E0119,Employee_119,Marketing,Marketing Specialist,11/16/2018,Chicago,78106,4,70,No
+E0120,Employee_120,Sales,Sales Executive,6/25/2017,Seattle,110613,5,19,Yes
+E0121,Employee_121,Sales,Sales Manager,4/13/2016,New York,115960,1,85,Yes
+E0122,Employee_122,IT,IT Support,11/8/2022,Austin,112795,1,82,Yes
+E0123,Employee_123,Finance,Accountant,4/28/2016,New York,86922,3,98,Yes
+E0124,Employee_124,Marketing,Marketing Specialist,9/25/2018,Seattle,73481,2,97,Yes
+E0125,Employee_125,IT,IT Support,11/28/2015,Austin,115638,3,16,Yes
+E0126,Employee_126,Finance,Financial Analyst,7/12/2018,New York,112144,4,28,Yes
+E0127,Employee_127,Operations,Operations Manager,10/28/2018,Chicago,95920,3,96,Yes
+E0128,Employee_128,Marketing,Marketing Manager,5/19/2024,San Francisco,103001,3,91,Yes
+E0129,Employee_129,Operations,Operations Manager,5/5/2019,New York,78309,4,55,Yes
+E0130,Employee_130,Sales,Sales Manager,8/19/2016,San Francisco,113585,3,89,No
+E0131,Employee_131,Finance,Accountant,3/16/2021,Seattle,72946,3,15,Yes
+E0132,Employee_132,Operations,Operations Manager,1/2/2019,New York,55616,2,36,No
+E0133,Employee_133,Marketing,Marketing Specialist,12/21/2022,Austin,79879,1,42,Yes
+E0134,Employee_134,HR,HR Coordinator,7/28/2024,Chicago,92326,1,20,Yes
+E0135,Employee_135,Finance,Accountant,6/10/2023,San Francisco,65282,5,81,No
+E0136,Employee_136,Operations,Operations Manager,12/5/2019,New York,83564,5,4,No
+E0137,Employee_137,Operations,Operations Analyst,8/3/2023,Seattle,59636,5,11,Yes
+E0138,Employee_138,Marketing,Marketing Manager,1/21/2020,Seattle,90703,1,4,No
+E0139,Employee_139,HR,HR Coordinator,2/15/2023,Chicago,90646,5,75,Yes
+E0140,Employee_140,Finance,Accountant,5/14/2023,Seattle,42318,1,87,Yes
+E0141,Employee_141,Sales,Sales Manager,8/30/2016,Seattle,102194,1,13,Yes
+E0142,Employee_142,Sales,Sales Executive,12/18/2017,San Francisco,118050,1,48,No
+E0143,Employee_143,Operations,Operations Analyst,1/27/2021,Seattle,97365,4,42,Yes
+E0144,Employee_144,Marketing,Marketing Manager,2/14/2019,Austin,95414,4,74,Yes
+E0145,Employee_145,Marketing,Marketing Specialist,12/1/2019,Chicago,119992,2,43,Yes
+E0146,Employee_146,Marketing,Marketing Specialist,7/6/2017,Austin,46032,1,6,Yes
+E0147,Employee_147,HR,HR Manager,11/5/2016,Seattle,103742,1,5,No
+E0148,Employee_148,HR,HR Coordinator,5/2/2019,Chicago,110011,3,73,No
+E0149,Employee_149,Finance,Accountant,5/10/2024,New York,65763,2,21,No
+E0150,Employee_150,Sales,Sales Executive,11/30/2022,San Francisco,60827,4,53,Yes
+E0151,Employee_151,HR,HR Manager,2/8/2016,Seattle,86760,2,83,No
+E0152,Employee_152,Operations,Operations Manager,9/20/2016,San Francisco,111936,1,66,No
+E0153,Employee_153,HR,HR Coordinator,7/5/2022,Chicago,74864,4,70,Yes
+E0154,Employee_154,Sales,Sales Manager,2/28/2016,Austin,103607,1,37,Yes
+E0155,Employee_155,Finance,Accountant,9/13/2021,Seattle,105635,3,19,No
+E0156,Employee_156,Sales,Sales Manager,12/10/2017,Chicago,92561,2,3,No
+E0157,Employee_157,Marketing,Marketing Specialist,5/28/2018,San Francisco,45921,2,71,No
+E0158,Employee_158,Operations,Operations Analyst,5/4/2021,Austin,103440,3,34,Yes
+E0159,Employee_159,IT,IT Support,11/23/2015,Seattle,114455,3,61,Yes
+E0160,Employee_160,Operations,Operations Manager,10/5/2018,Chicago,109706,5,91,No
+E0161,Employee_161,Finance,Accountant,6/28/2019,San Francisco,81563,5,34,No
+E0162,Employee_162,Operations,Operations Manager,3/6/2018,Austin,85792,3,89,No
+E0163,Employee_163,Finance,Accountant,9/16/2018,Seattle,47949,1,4,No
+E0164,Employee_164,Finance,Financial Analyst,2/7/2019,Austin,108142,5,92,Yes
+E0165,Employee_165,Sales,Sales Executive,11/8/2022,Seattle,115484,5,39,Yes
+E0166,Employee_166,Marketing,Marketing Manager,2/16/2018,New York,94728,3,72,No
+E0167,Employee_167,Marketing,Marketing Specialist,4/12/2021,Chicago,94828,2,61,No
+E0168,Employee_168,Finance,Accountant,1/13/2018,San Francisco,60155,1,76,Yes
+E0169,Employee_169,Sales,Sales Executive,2/9/2018,Chicago,83690,4,59,No
+E0170,Employee_170,IT,Software Engineer,5/27/2018,Chicago,83048,4,93,Yes
+E0171,Employee_171,IT,Software Engineer,1/13/2021,Chicago,96700,5,87,No
+E0172,Employee_172,HR,HR Manager,4/7/2021,Seattle,69720,5,44,No
+E0173,Employee_173,Marketing,Marketing Manager,12/17/2020,San Francisco,77249,3,58,Yes
+E0174,Employee_174,Marketing,Marketing Manager,8/5/2020,Seattle,95355,3,3,Yes
+E0175,Employee_175,HR,HR Coordinator,3/4/2022,Seattle,60615,3,86,No
+E0176,Employee_176,Operations,Operations Manager,10/9/2015,San Francisco,54044,2,69,No
+E0177,Employee_177,HR,HR Coordinator,10/8/2019,New York,46792,5,16,Yes
+E0178,Employee_178,HR,HR Manager,12/15/2015,Seattle,114230,4,26,Yes
+E0179,Employee_179,Operations,Operations Analyst,3/16/2023,New York,96984,4,61,Yes
+E0180,Employee_180,HR,HR Coordinator,1/31/2019,New York,91942,2,0,No
+E0181,Employee_181,Operations,Operations Analyst,10/8/2016,Seattle,116913,5,53,Yes
+E0182,Employee_182,Finance,Accountant,11/17/2022,Austin,62715,4,76,No
+E0183,Employee_183,IT,IT Support,10/21/2021,Austin,64394,2,17,No
+E0184,Employee_184,Finance,Financial Analyst,2/28/2022,San Francisco,108823,2,67,No
+E0185,Employee_185,IT,Software Engineer,7/24/2022,Seattle,60816,1,84,No
+E0186,Employee_186,Marketing,Marketing Manager,4/17/2017,San Francisco,79528,1,47,No
+E0187,Employee_187,Operations,Operations Analyst,3/11/2024,San Francisco,105499,1,45,No
+E0188,Employee_188,HR,HR Coordinator,7/16/2021,New York,42478,3,13,No
+E0189,Employee_189,Sales,Sales Manager,10/22/2018,Chicago,76454,2,61,No
+E0190,Employee_190,HR,HR Coordinator,2/22/2016,Chicago,99130,3,61,Yes
+E0191,Employee_191,Sales,Sales Manager,4/25/2024,New York,88814,2,23,No
+E0192,Employee_192,Operations,Operations Manager,8/25/2022,Austin,93491,2,85,Yes
+E0193,Employee_193,HR,HR Coordinator,7/4/2018,New York,68382,2,94,Yes
+E0194,Employee_194,Finance,Accountant,1/2/2018,San Francisco,101276,4,50,Yes
+E0195,Employee_195,IT,Software Engineer,4/23/2021,Austin,51061,5,20,Yes
+E0196,Employee_196,HR,HR Manager,11/26/2020,Chicago,102042,4,29,Yes
+E0197,Employee_197,Marketing,Marketing Specialist,7/14/2017,Austin,70223,3,69,Yes
+E0198,Employee_198,Finance,Financial Analyst,6/6/2019,San Francisco,73019,3,60,Yes
+E0199,Employee_199,Marketing,Marketing Manager,5/21/2016,Chicago,41994,3,46,Yes
+E0200,Employee_200,Sales,Sales Executive,1/1/2019,San Francisco,112689,1,68,No
