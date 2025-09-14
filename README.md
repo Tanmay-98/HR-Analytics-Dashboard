@@ -1,4 +1,4 @@
-# HR Analytics Assessment Dashboard
+# HR Analytics Dashboard
 
 ## 📊 Project Overview
 This project analyzes workforce data to provide insights into:
